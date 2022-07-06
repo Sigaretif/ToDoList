@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/drawable/button_outline.xml" value="0.296" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.296" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/drawable/ic_baseline_attach_file_24.xml" value="0.139" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.296" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.296" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.296" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.258" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.296" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/layout/activity_categories.xml" value="0.36666666666666664" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/layout/activity_new_task.xml" value="0.39002770083102495" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/layout/categories_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/layout/categories_single_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/layout/filters_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/layout/item.xml" value="0.365625" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/layout/task_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/menu/categories_menu.xml" value="0.33" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/menu/new_task_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/mobilki/ToDoList2/app/src/main/res/xml/provider_paths.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

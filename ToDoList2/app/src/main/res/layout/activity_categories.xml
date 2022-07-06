@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CategoriesActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="100">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="10"
+            android:weightSum="100"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/newCategoryNameID"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="70"
+                android:ems="10"
+                android:hint="Enter category name"
+                android:inputType="textPersonName"
+                android:minHeight="48dp"
+                android:textAlignment="center"
+                android:textColorHint="#546E7A" />
+
+            <Button
+                android:id="@+id/addNewCategoryButtonID"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="30"
+                android:backgroundTint="@color/purple_500"
+                android:onClick="addCategory"
+                android:text="Add" />
+
+
+
+        </LinearLayout>
+
+        <ListView
+            android:id="@+id/categoriesListID"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="90">
+
+        </ListView>
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
